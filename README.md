@@ -4,8 +4,12 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+### Softwares de Edição
+
+![Adobe Premiere Pro](https://skillicons.dev/icons?i=pr)
+![Adobe Photoshop](https://skillicons.dev/icons?i=ps)
+![DaVinci Resolve](https://skillicons.dev/icons?i=davinci)
 
 ---
 
