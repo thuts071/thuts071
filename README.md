@@ -28,7 +28,7 @@ Estudos/conhecimentos:
 </td>
     <!-- Coluna da Direita: O seu GIF -->
     <td width="40%" align="center" valign="middle">
-      <img src="LINK_DO_SEU_GIF_AQUI.gif" width="100%">
+      <img src="https://github.com/thuts071/thuts071/blob/main/WhatsApp-Video-2026-05-14-at-09.09.36.gif" width="100%">
     </td>
   </tr>
 </table>
