@@ -1,8 +1,4 @@
-Eaee, prazer, eu sou o Arthur Pereira
-
-Atualmente estou cursando o primeiro semestre de Engenharia da Computanção no Centro Universitário de Brasília - CEUB
-
-Estudos/conhecimentos:
+### Estudos/conhecimentos:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -11,25 +7,25 @@ Estudos/conhecimentos:
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-<table>
-  <tr>
-    <!-- Coluna da Esquerda: Seus Progressos -->
-    <td width="60%" valign="top">
+---
+
+<!-- O GIF fica aqui, flutuando à direita -->
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZpZzJueGZ3bmZpZzJueGZ3bmZpZzJueGZ3bmZpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+
 ### Em constante evolução:
+
 - **C Avançado:** 
-- ![C Progress](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff9900&successColor=00ff00)
+![C Progress](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff9900&successColor=00ff00)
+
 - **Cibersegurança (Hashing/Integridade):**
-- ![Cybersecurity Progress](https://geps.dev/progress/50?dangerColor=800080&warningColor=ff9900&successColor=00ff00)
+![Cybersecurity Progress](https://geps.dev/progress/50?dangerColor=800080&warningColor=ff9900&successColor=00ff00)
+
 - **Eletrônica & Motores:** 
-- ![Electronic Progress](https://geps.dev/progress/30?dangerColor=800080&warningColor=ff9900&successColor=00ff00)
+![Electronic Progress](https://geps.dev/progress/30?dangerColor=800080&warningColor=ff9900&successColor=00ff00)
+
 - **Java Development:** 
-- ![Java Progress](https://geps.dev/progress/50?dangerColor=800080&warningColor=ff9900&successColor=00ff00)
+![Java Progress](https://geps.dev/progress/50?dangerColor=800080&warningColor=ff9900&successColor=00ff00)
 
-</td>
-    <!-- Coluna da Direita: O seu GIF -->
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/thuts071/thuts071/blob/main/WhatsApp-Video-2026-05-14-at-09.09.36.gif" width="100%">
-    </td>
-  </tr>
-</table>
+<br clear="right">
 
+---
